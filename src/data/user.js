@@ -4,8 +4,8 @@ const user = {
   bio: "I made this!",
   color: "firebrick",
   links: {
-    github: "https://github.com/wilson",
-    linkedin: "https://www.linkedin.com/in/Wilson/",
+    github: "https://github.com/Wilson-Ochieng",
+    linkedin: "https://www.linkedin.com/in/Wilson-Ochieng/",
   },
 };
 
